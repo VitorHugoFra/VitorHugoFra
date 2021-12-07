@@ -22,7 +22,9 @@
 
 **[Blog Pessoal](https://vitorhugofra.github.io/index.html/)** 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorHugoFra&layout=compact)](https://github.com/VitorHugoFra?tab=repositories)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorHugoFra&show_icons=true&theme=github_dark)
+
 
 
 
