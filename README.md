@@ -1,16 +1,29 @@
-### Hi there 👋
+### 
 
-<!--
-**VitorHugoFra/VitorHugoFra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm Vitor Hugo! ##
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/VitorHugoFra)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitorhugofra/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VitorHugoFra)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorhugo_f/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+*******
+
+:computer: I'm Fullstack Developer!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+:outbox_tray: 2022 Goals: create a new project and find a new job.
+
+:school: Federal University of Viçosa, Florestal - Brazil
+
+**[Blog Pessoal](https://vitorhugofra.github.io/index.html/)** 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorHugoFra&show_icons=true&theme=github_dark)
+
+
+
+
